@@ -1,61 +1,75 @@
-from pathlib import Path
-import fitz
+import fitz  # PyMuPDF
+import os
+import json
+
+DATA_DIR = "../data"
+OUTPUT_DIR = "../data/parsed"
 
 
-def parse_pdf_folder(folder_path):
-    parsed_content = []
+def parse_pdf(pdf_path):
+    """Parse a single PDF. Returns list of line dicts."""
+    doc = fitz.open(pdf_path)
+    lines_out = []
 
-    pdf_files = Path(folder_path).glob("*.pdf")
+    for page_num, page in enumerate(doc, start=1):
+        blocks = page.get_text("dict")["blocks"]
 
-    for pdf_file in pdf_files:
-        doc = fitz.open(pdf_file)
-
-        for page_number, page in enumerate(doc, start=1):
-            page_dict = page.get_text("dict")
-
-            for block in page_dict["blocks"]:
-
-                if "lines" not in block:
+        for block in blocks:
+            if "lines" not in block:
+                continue
+            for line in block["lines"]:
+                spans = line["spans"]
+                if not spans:
                     continue
+                text = "".join(s["text"] for s in spans).strip()
+                if not text:
+                    continue
+                # use first span's font/size as representative for the line
+                font = spans[0]["font"]
+                size = spans[0]["size"]
 
-                for line in block["lines"]:
+                lines_out.append({
+                    "page": page_num,
+                    "font": font,
+                    "size": size,
+                    "text": text
+                })
 
-                    spans = line.get("spans", [])
+    doc.close()
+    return lines_out
 
-                    if not spans:
-                        continue
 
-                    merged_text = "".join(
-                        span["text"] for span in spans
-                    ).strip()
+def save_parsed(pdf_filename, lines_out):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    out_path = os.path.join(OUTPUT_DIR, f"{os.path.splitext(pdf_filename)[0]}.json")
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(lines_out, f, ensure_ascii=False, indent=2)
+    return out_path
 
-                    if not merged_text:
-                        continue
 
-                    parsed_content.append(
-                        {
-                            "page": page_number,
-                            "text": merged_text,
-                            "font_size": spans[0]["size"],
-                            "font_name": spans[0]["font"],
-                        }
-                    )
+def parse_all_pdfs(chunk_callback=None):
+    """
+    Iterate all PDFs in DATA_DIR.
+    Saves JSON per PDF AND optionally calls chunk_callback(pdf_filename, lines_out)
+    to feed results directly into a chunker.
+    """
+    results = {}
 
-        doc.close()
+    for filename in os.listdir(DATA_DIR):
+        if not filename.lower().endswith(".pdf"):
+            continue
 
-    return parsed_content
+        pdf_path = os.path.join(DATA_DIR, filename)
+        lines_out = parse_pdf(pdf_path)
+
+        save_parsed(filename, lines_out)
+        results[filename] = lines_out
+
+        if chunk_callback:
+            chunk_callback(filename, lines_out)
+
+    return results
 
 
 if __name__ == "__main__":
-
-    results = parse_pdf_folder("../data")
-
-    print(f"\nTotal Records: {len(results)}\n")
-
-    for i, item in enumerate(results[:50], start=1):
-        print("=" * 100)
-        print(f"Record #{i}")
-        print(f"Page      : {item['page']}")
-        print(f"Font Size : {item['font_size']}")
-        print(f"Font Name : {item['font_name']}")
-        print(f"Text      : {item['text']}")
+    parse_all_pdfs()
