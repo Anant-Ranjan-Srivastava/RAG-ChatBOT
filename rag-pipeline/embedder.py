@@ -5,6 +5,9 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
+os.environ["HF_HUB_OFFLINE"] = "1"
+os.environ["TRANSFORMERS_OFFLINE"] = "1"
+
 CHUNKED_DIR = "../data/chunked"
 EMBED_OUTPUT_DIR = "../data/embedded"
 FAISS_INDEX_PATH = os.path.join(EMBED_OUTPUT_DIR, "index.faiss")
@@ -16,7 +19,6 @@ TASK_PREFIX = "search_document: "   # nomic's required convention for indexing d
 BATCH_SIZE = 32                  
 
 _model = None
-
 
 def get_model():
     global _model
