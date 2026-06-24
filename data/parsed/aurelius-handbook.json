@@ -1,0 +1,1394 @@
+[
+  {
+    "page": 1,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Aurelius Dynamics Employee Handbook"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Version 3.2"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "January 2031"
+  },
+  {
+    "page": 1,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Welcome to Aurelius Dynamics"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Welcome to Aurelius Dynamics, a technology and engineering company focused on"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "industrial automation, intelligent infrastructure, and large-scale sensor networks."
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Founded in 2022 by Elena Voss, Marcus Hale, and Priya Nandakumar, Aurelius"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Dynamics began as a small engineering consultancy operating from a single office in"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Austin, Texas. The company was originally formed to help manufacturing firms"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "modernize outdated monitoring systems. Within three years, Aurelius Dynamics"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "expanded into predictive maintenance platforms, industrial AI systems, and"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "autonomous inspection technologies."
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "As of January 2031, Aurelius Dynamics employs 1,240 full-time employees across four"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "offices and serves more than 180 enterprise customers worldwide."
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Our mission is simple:"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "\"Transform industrial operations through intelligent systems that improve safety,"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "efficiency, and sustainability.\""
+  },
+  {
+    "page": 1,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Company Locations"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Aurelius Dynamics currently operates from four major offices."
+  },
+  {
+    "page": 1,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Headquarters"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Austin Innovation Center"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Austin, Texas"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary functions:"
+  },
+  {
+    "page": 1,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Executive Leadership"
+  },
+  {
+    "page": 1,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Product Strategy"
+  },
+  {
+    "page": 1,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Finance"
+  },
+  {
+    "page": 1,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Legal"
+  },
+  {
+    "page": 1,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "East Coast Operations Center"
+  },
+  {
+    "page": 1,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Raleigh, North Carolina"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary functions:"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Customer Success"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Technical Support"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Sales Operations"
+  },
+  {
+    "page": 2,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Research Campus"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Boulder, Colorado"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary functions:"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Artificial Intelligence Research"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Advanced Robotics"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Systems Engineering"
+  },
+  {
+    "page": 2,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "European Operations Hub"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Dublin, Ireland"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary functions:"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• International Sales"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Localization"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Compliance"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees are officially assigned to one home office regardless of remote status."
+  },
+  {
+    "page": 2,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Organizational Structure"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "The company is divided into six major divisions."
+  },
+  {
+    "page": 2,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Division A: Platform Engineering"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Responsible for:"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Backend Systems"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• APIs"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Infrastructure"
+  },
+  {
+    "page": 2,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Cloud Operations"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Vice President:"
+  },
+  {
+    "page": 2,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Jordan Mercer"
+  },
+  {
+    "page": 3,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Division B: AI Systems"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Responsible for:"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Machine Learning"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Predictive Analytics"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Data Science"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Vice President:"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Dr. Amelia Chen"
+  },
+  {
+    "page": 3,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Division C: Hardware Integration"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Responsible for:"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Sensors"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Embedded Systems"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Device Certification"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Vice President:"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Samuel Ortega"
+  },
+  {
+    "page": 3,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Division D: Product Operations"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Responsible for:"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Product Delivery"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Program Management"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Release Planning"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Vice President:"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Rachel Kim"
+  },
+  {
+    "page": 3,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Division E: Customer Solutions"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Responsible for:"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Customer Deployment"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Consulting"
+  },
+  {
+    "page": 3,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Training"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Vice President:"
+  },
+  {
+    "page": 3,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Daniel Brooks"
+  },
+  {
+    "page": 3,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Division F: Corporate Services"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Responsible for:"
+  },
+  {
+    "page": 4,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• HR"
+  },
+  {
+    "page": 4,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Finance"
+  },
+  {
+    "page": 4,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Legal"
+  },
+  {
+    "page": 4,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Facilities"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Vice President:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Olivia Hart"
+  },
+  {
+    "page": 4,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Internal Project Structure"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "The company organizes strategic initiatives into named programs."
+  },
+  {
+    "page": 4,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Project Orion"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Develop next-generation predictive maintenance algorithms for industrial equipment."
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Program Director:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Amelia Chen"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary Location:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Boulder Research Campus"
+  },
+  {
+    "page": 4,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Project Atlas"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Create a unified infrastructure monitoring platform."
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Program Director:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Jordan Mercer"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary Location:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Austin Headquarters"
+  },
+  {
+    "page": 4,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Project Nova"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Develop autonomous inspection drones for energy facilities."
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Program Director:"
+  },
+  {
+    "page": 4,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Samuel Ortega"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary Location:"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Boulder Research Campus"
+  },
+  {
+    "page": 5,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Project Horizon"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective:"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Expand European market presence by 40% before 2033."
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Program Director:"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Daniel Brooks"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary Location:"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Dublin Operations Hub"
+  },
+  {
+    "page": 5,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Remote Work Policy"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Aurelius Dynamics supports hybrid work."
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Full-time employees may work remotely up to three days per week."
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees assigned to:"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Platform Engineering"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• AI Systems"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Product Operations"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "may request fully remote status upon management approval."
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Hardware Integration personnel must work on-site at least four days each week due"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "to laboratory requirements."
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "All employees must attend:"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Quarterly planning meetings"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Annual strategy summit"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Team-specific workshops"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Remote work equipment allowance:"
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "$1,800 annually per employee."
+  },
+  {
+    "page": 5,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Approved purchases include:"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Monitors"
+  },
+  {
+    "page": 5,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Ergonomic chairs"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Keyboards"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Microphones"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Webcams"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Unused allowance does not carry forward."
+  },
+  {
+    "page": 6,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Employee Benefits"
+  },
+  {
+    "page": 6,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Health Coverage"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees receive:"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Medical Insurance"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Dental Insurance"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Vision Insurance"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Coverage begins on the first day of employment."
+  },
+  {
+    "page": 6,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Retirement Plan"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "The company provides:"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "5% salary matching on retirement contributions."
+  },
+  {
+    "page": 6,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Learning Budget"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Every employee receives:"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "$2,500 per year"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "for approved learning activities."
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Eligible expenses include:"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Courses"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Certifications"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Conferences"
+  },
+  {
+    "page": 6,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Technical Books"
+  },
+  {
+    "page": 6,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Wellness Benefit"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees receive:"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "$600 annually"
+  },
+  {
+    "page": 6,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "for wellness-related expenses."
+  },
+  {
+    "page": 7,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Leave Policy"
+  },
+  {
+    "page": 7,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Vacation Leave"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees receive:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "20 vacation days per calendar year."
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Unused vacation days may roll over up to:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "10 days."
+  },
+  {
+    "page": 7,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Sick Leave"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees receive:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "12 paid sick days annually."
+  },
+  {
+    "page": 7,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Volunteer Leave"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees receive:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "3 paid volunteer days annually."
+  },
+  {
+    "page": 7,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Parental Leave"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Primary caregivers:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "18 weeks paid leave."
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Secondary caregivers:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "8 weeks paid leave."
+  },
+  {
+    "page": 7,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Security and Compliance"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "All employees must complete annual security training."
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Mandatory completion deadline:"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "February 15 each year."
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees are required to use:"
+  },
+  {
+    "page": 7,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Multi-factor authentication"
+  },
+  {
+    "page": 7,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Company-managed password vault"
+  },
+  {
+    "page": 7,
+    "font": "SymbolMT",
+    "size": 9.960000038146973,
+    "text": "• Encrypted devices"
+  },
+  {
+    "page": 7,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Sensitive customer data must never be stored on personal devices."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Any suspected security incident must be reported within:"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "2 hours of discovery."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Security incidents are managed by the Cyber Defense Office located in Austin."
+  },
+  {
+    "page": 8,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Annual Company Events"
+  },
+  {
+    "page": 8,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Engineering Summit"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Held every April."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Location rotates annually."
+  },
+  {
+    "page": 8,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Innovation Week"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Held every July."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Employees may dedicate 100% of their work time to experimental projects."
+  },
+  {
+    "page": 8,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Leadership Forum"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Held every September."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Attendance is invitation only."
+  },
+  {
+    "page": 8,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Company Assembly"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Held every December."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "All employees are expected to attend virtually or in person."
+  },
+  {
+    "page": 8,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "2031 Strategic Objectives"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective 1:"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Increase annual recurring revenue to $420 million."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective 2:"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Reduce platform downtime by 35%."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective 3:"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Launch Project Nova pilot deployments in three countries."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective 4:"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Expand workforce to 1,500 employees."
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Objective 5:"
+  },
+  {
+    "page": 8,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Achieve customer satisfaction score of 92%."
+  },
+  {
+    "page": 9,
+    "font": "Calibri-Bold",
+    "size": 15.0,
+    "text": "Message from the CEO"
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Aurelius Dynamics was built on the belief that engineering can solve meaningful"
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "problems when talented people work together with clarity and purpose."
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "As we enter 2031, our focus remains on creating systems that improve industrial"
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "safety, reduce operational waste, and empower our customers to make smarter"
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "decisions."
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Every employee contributes directly to that mission."
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Thank you for helping build the future."
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "— Elena Voss"
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Chief Executive Officer"
+  },
+  {
+    "page": 9,
+    "font": "Calibri",
+    "size": 15.0,
+    "text": "Aurelius Dynamics"
+  }
+]

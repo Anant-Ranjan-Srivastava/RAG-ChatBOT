@@ -1,0 +1,275 @@
+[
+  {
+    "text": "Preamble",
+    "header": "Preamble",
+    "level": 0,
+    "page": 1,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Aurelius Dynamics Employee Handbook\nVersion 3.2\nJanuary 2031",
+    "header": "Aurelius Dynamics Employee Handbook",
+    "level": 1,
+    "page": 1,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Welcome to Aurelius Dynamics\nWelcome to Aurelius Dynamics, a technology and engineering company focused on\nindustrial automation, intelligent infrastructure, and large-scale sensor networks.\nFounded in 2022 by Elena Voss, Marcus Hale, and Priya Nandakumar, Aurelius\nDynamics began as a small engineering consultancy operating from a single office in\nAustin, Texas. The company was originally formed to help manufacturing firms\nmodernize outdated monitoring systems. Within three years, Aurelius Dynamics\nexpanded into predictive maintenance platforms, industrial AI systems, and\nautonomous inspection technologies.\nAs of January 2031, Aurelius Dynamics employs 1,240 full-time employees across four\noffices and serves more than 180 enterprise customers worldwide.\nOur mission is simple:\n\"Transform industrial operations through intelligent systems that improve safety,\nefficiency, and sustainability.\"",
+    "header": "Welcome to Aurelius Dynamics",
+    "level": 1,
+    "page": 1,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Company Locations\nAurelius Dynamics currently operates from four major offices.",
+    "header": "Company Locations",
+    "level": 1,
+    "page": 1,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Headquarters\nAustin Innovation Center\nAustin, Texas\nPrimary functions:\n• Executive Leadership\n• Product Strategy\n• Finance\n• Legal",
+    "header": "Headquarters",
+    "level": 1,
+    "page": 1,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "East Coast Operations Center\nRaleigh, North Carolina\nPrimary functions:\n• Customer Success\n• Technical Support\n• Sales Operations",
+    "header": "East Coast Operations Center",
+    "level": 1,
+    "page": 1,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Research Campus\nBoulder, Colorado\nPrimary functions:\n• Artificial Intelligence Research\n• Advanced Robotics\n• Systems Engineering",
+    "header": "Research Campus",
+    "level": 1,
+    "page": 2,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "European Operations Hub\nDublin, Ireland\nPrimary functions:\n• International Sales\n• Localization\n• Compliance\nEmployees are officially assigned to one home office regardless of remote status.",
+    "header": "European Operations Hub",
+    "level": 1,
+    "page": 2,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Organizational Structure\nThe company is divided into six major divisions.",
+    "header": "Organizational Structure",
+    "level": 1,
+    "page": 2,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Division A: Platform Engineering\nResponsible for:\n• Backend Systems\n• APIs\n• Infrastructure\n• Cloud Operations\nVice President:\nJordan Mercer",
+    "header": "Division A: Platform Engineering",
+    "level": 1,
+    "page": 2,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Division B: AI Systems\nResponsible for:\n• Machine Learning\n• Predictive Analytics\n• Data Science\nVice President:\nDr. Amelia Chen",
+    "header": "Division B: AI Systems",
+    "level": 1,
+    "page": 3,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Division C: Hardware Integration\nResponsible for:\n• Sensors\n• Embedded Systems\n• Device Certification\nVice President:\nSamuel Ortega",
+    "header": "Division C: Hardware Integration",
+    "level": 1,
+    "page": 3,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Division D: Product Operations\nResponsible for:\n• Product Delivery\n• Program Management\n• Release Planning\nVice President:\nRachel Kim",
+    "header": "Division D: Product Operations",
+    "level": 1,
+    "page": 3,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Division E: Customer Solutions\nResponsible for:\n• Customer Deployment\n• Consulting\n• Training\nVice President:\nDaniel Brooks",
+    "header": "Division E: Customer Solutions",
+    "level": 1,
+    "page": 3,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Division F: Corporate Services\nResponsible for:\n• HR\n• Finance\n• Legal\n• Facilities\nVice President:\nOlivia Hart",
+    "header": "Division F: Corporate Services",
+    "level": 1,
+    "page": 3,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Internal Project Structure\nThe company organizes strategic initiatives into named programs.",
+    "header": "Internal Project Structure",
+    "level": 1,
+    "page": 4,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Project Orion\nObjective:\nDevelop next-generation predictive maintenance algorithms for industrial equipment.\nProgram Director:\nAmelia Chen\nPrimary Location:\nBoulder Research Campus",
+    "header": "Project Orion",
+    "level": 1,
+    "page": 4,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Project Atlas\nObjective:\nCreate a unified infrastructure monitoring platform.\nProgram Director:\nJordan Mercer\nPrimary Location:\nAustin Headquarters",
+    "header": "Project Atlas",
+    "level": 1,
+    "page": 4,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Project Nova\nObjective:\nDevelop autonomous inspection drones for energy facilities.\nProgram Director:\nSamuel Ortega\nPrimary Location:\nBoulder Research Campus",
+    "header": "Project Nova",
+    "level": 1,
+    "page": 4,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Project Horizon\nObjective:\nExpand European market presence by 40% before 2033.\nProgram Director:\nDaniel Brooks\nPrimary Location:\nDublin Operations Hub",
+    "header": "Project Horizon",
+    "level": 1,
+    "page": 5,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Remote Work Policy\nAurelius Dynamics supports hybrid work.\nFull-time employees may work remotely up to three days per week.\nEmployees assigned to:\n• Platform Engineering\n• AI Systems\n• Product Operations\nmay request fully remote status upon management approval.\nHardware Integration personnel must work on-site at least four days each week due\nto laboratory requirements.\nAll employees must attend:\n• Quarterly planning meetings\n• Annual strategy summit\n• Team-specific workshops\nRemote work equipment allowance:\n$1,800 annually per employee.\nApproved purchases include:\n• Monitors\n• Ergonomic chairs\n• Keyboards\n• Microphones\n• Webcams\nUnused allowance does not carry forward.",
+    "header": "Remote Work Policy",
+    "level": 1,
+    "page": 5,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Employee Benefits",
+    "header": "Employee Benefits",
+    "level": 1,
+    "page": 6,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Health Coverage\nEmployees receive:\n• Medical Insurance\n• Dental Insurance\n• Vision Insurance\nCoverage begins on the first day of employment.",
+    "header": "Health Coverage",
+    "level": 1,
+    "page": 6,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Retirement Plan\nThe company provides:\n5% salary matching on retirement contributions.",
+    "header": "Retirement Plan",
+    "level": 1,
+    "page": 6,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Learning Budget\nEvery employee receives:\n$2,500 per year\nfor approved learning activities.\nEligible expenses include:\n• Courses\n• Certifications\n• Conferences\n• Technical Books",
+    "header": "Learning Budget",
+    "level": 1,
+    "page": 6,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Wellness Benefit\nEmployees receive:\n$600 annually\nfor wellness-related expenses.",
+    "header": "Wellness Benefit",
+    "level": 1,
+    "page": 6,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Leave Policy",
+    "header": "Leave Policy",
+    "level": 1,
+    "page": 7,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Vacation Leave\nEmployees receive:\n20 vacation days per calendar year.\nUnused vacation days may roll over up to:\n10 days.",
+    "header": "Vacation Leave",
+    "level": 1,
+    "page": 7,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Sick Leave\nEmployees receive:\n12 paid sick days annually.",
+    "header": "Sick Leave",
+    "level": 1,
+    "page": 7,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Volunteer Leave\nEmployees receive:\n3 paid volunteer days annually.",
+    "header": "Volunteer Leave",
+    "level": 1,
+    "page": 7,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Parental Leave\nPrimary caregivers:\n18 weeks paid leave.\nSecondary caregivers:\n8 weeks paid leave.",
+    "header": "Parental Leave",
+    "level": 1,
+    "page": 7,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Security and Compliance\nAll employees must complete annual security training.\nMandatory completion deadline:\nFebruary 15 each year.\nEmployees are required to use:\n• Multi-factor authentication\n• Company-managed password vault\n• Encrypted devices\nSensitive customer data must never be stored on personal devices.\nAny suspected security incident must be reported within:\n2 hours of discovery.\nSecurity incidents are managed by the Cyber Defense Office located in Austin.",
+    "header": "Security and Compliance",
+    "level": 1,
+    "page": 7,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Annual Company Events",
+    "header": "Annual Company Events",
+    "level": 1,
+    "page": 8,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Engineering Summit\nHeld every April.\nLocation rotates annually.",
+    "header": "Engineering Summit",
+    "level": 1,
+    "page": 8,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Innovation Week\nHeld every July.\nEmployees may dedicate 100% of their work time to experimental projects.",
+    "header": "Innovation Week",
+    "level": 1,
+    "page": 8,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Leadership Forum\nHeld every September.\nAttendance is invitation only.",
+    "header": "Leadership Forum",
+    "level": 1,
+    "page": 8,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Company Assembly\nHeld every December.\nAll employees are expected to attend virtually or in person.",
+    "header": "Company Assembly",
+    "level": 1,
+    "page": 8,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "2031 Strategic Objectives\nObjective 1:\nIncrease annual recurring revenue to $420 million.\nObjective 2:\nReduce platform downtime by 35%.\nObjective 3:\nLaunch Project Nova pilot deployments in three countries.\nObjective 4:\nExpand workforce to 1,500 employees.\nObjective 5:\nAchieve customer satisfaction score of 92%.",
+    "header": "2031 Strategic Objectives",
+    "level": 1,
+    "page": 8,
+    "source_file": "aurelius-handbook.pdf"
+  },
+  {
+    "text": "Message from the CEO\nAurelius Dynamics was built on the belief that engineering can solve meaningful\nproblems when talented people work together with clarity and purpose.\nAs we enter 2031, our focus remains on creating systems that improve industrial\nsafety, reduce operational waste, and empower our customers to make smarter\ndecisions.\nEvery employee contributes directly to that mission.\nThank you for helping build the future.\n— Elena Voss\nChief Executive Officer\nAurelius Dynamics",
+    "header": "Message from the CEO",
+    "level": 1,
+    "page": 9,
+    "source_file": "aurelius-handbook.pdf"
+  }
+]
